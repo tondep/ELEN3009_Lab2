@@ -10,3 +10,4 @@ TEST_CASE("testing the factorial function") {
     CHECK(factorial(3) == 6);
     CHECK(factorial(10) == 3628800);
 }
+//yes he died for me, who is
